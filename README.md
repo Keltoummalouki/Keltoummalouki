@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keltoum Malouki</h1>
+<img align="center" alt="banner" width="400" src="C:\Users\Youcode\OneDrive\Bureau\Assets\ME\Banner.png">
 <h3 align="center">A Développeur Web et Web Mobile from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keltoummalouki&label=Profile%20views&color=0e75b6&style=flat" alt="keltoummalouki" /> </p>

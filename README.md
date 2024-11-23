@@ -31,17 +31,17 @@
 </p>
 
 ## 💼 Projects
- **ShopZone** 
-     - https://github.com/Keltoummalouki/ShopZone
-     - ShopZone est une plateforme e-commerce intuitive permettant aux utilisateurs de parcourir, filtrer et gérer facilement leurs produits favoris et leur panier d'achat. Elle vise à simplifier l'expérience d'achat en ligne grâce à une interface conviviale et efficace.
+ **ShopZone** <br>
+     - ShopZone est une plateforme e-commerce intuitive permettant aux utilisateurs de parcourir, filtrer et gérer facilement leurs produits favoris et leur panier d'achat. Elle vise à simplifier l'expérience d'achat en ligne grâce à une interface conviviale et efficace.<br>
+     <a href="https://github.com/Keltoummalouki/ShopZone">GitHub</a>
 
-**JapArt** 
-    - https://github.com/Keltoummalouki/JapArt
-    - JapArt est un site web artistique modernisé à l’aide de HTML et CSS, destiné à offrir une expérience utilisateur optimisée. Il comprend trois nouvelles pages : "About", "Gallery" et "Contact", intégrées selon les principes d’UI/UX design. Le site garantit une navigation fluide, une cohérence visuelle avec la charte graphique existante et des performances adaptées aux besoins des utilisateurs.
+**JapArt** <br>
+    - JapArt est un site web artistique modernisé à l’aide de HTML et CSS, destiné à offrir une expérience utilisateur optimisée. Il comprend trois nouvelles pages : "About", "Gallery" et "Contact", intégrées selon les principes d’UI/UX design. Le site garantit une navigation fluide, une cohérence visuelle avec la charte graphique existante et des performances adaptées aux besoins des utilisateurs.<br>
+    <a href="https://github.com/Keltoummalouki/JapArt">GitHub</a>
     
-**Programme de gestion des reservations d'un dentaire** 
-    - https://github.com/Keltoummalouki/Projet-Fin-Sas-Youcode
-    - Programme de gestion des réservations d'un dentiste en langage C permet de créer, modifier, et annuler des rendez-vous, avec validation d'horaires et stockage structuré des données pour une gestion efficace du calendrier.
+**Programme de gestion des reservations d'un dentaire** <br>
+    - Programme de gestion des réservations d'un dentiste en langage C permet de créer, modifier, et annuler des rendez-vous, avec validation d'horaires et stockage structuré des données pour une gestion efficace du calendrier.<br>
+     <a href="https://github.com/Keltoummalouki/Projet-Fin-Sas-Youcode">GitHub</a>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keltoummalouki" alt="keltoummalouki" /></a> </p>
 

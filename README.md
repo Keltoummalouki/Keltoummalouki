@@ -1,22 +1,36 @@
-# Hi there, I'm Keltoum Malouki 👋
+# Keltoum Malouki 👋
 
 ## 👨‍💻 About Me
-- A Développeur Web et Web Mobile from Morocco.
-- I’m passionate about development and creating user-friendly applications that solve real-world problems.
+- A **Développeur Web et Web Mobile** from **Morocco**.
+- Passionate about **development** and creating **user-friendly applications** that solve real-world problems.
   
-## 📫 How to reach me
-- Email: keltoummalouki@gmail.com
-- LinkedIn: https://www.linkedin.com/in/keltoum-malouki-79a28029a/
+## 📫 How to Reach Me
+- 📧 Email: [keltoummalouki@gmail.com](mailto:keltoummalouki@gmail.com)
+- 🔗 LinkedIn: [Keltoum Malouki](https://www.linkedin.com/in/keltoum-malouki-79a28029a/)
+- 🐦 X: [keltoummalouki](https://twitter.com/keltoummalouki)
 
 ## 🛠️ Technologies & Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-- **Programming Languages:** **HTML5**, **CSS**, **JavaScript**
-- **Frameworks:** **Tailwind**, **Bootstrap**
-- **Tools:** **Git**, **GitHub**, **Visual Studio Code**, **Jira**, **Figma**
+- **Programming Languages**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"> **HTML5**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"> **CSS**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> **JavaScript**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"> **PHP**
+- **Frameworks**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30"> **Tailwind**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"> **React**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30"> **Laravel**
+- **Databases**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"> **MySQL**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"> **PostgreSQL**
+- **Tools**:
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> **Git**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="30" height="30"> **GitHub**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"> **Docker**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> **Figma**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"> **Photoshop**
 
 ## 🌱 I’m currently learning
-- **Javascript** ☕: Exploring advanced concepts and frameworks.
+- **PHP** ☕: Exploring advanced concepts and frameworks.
 - **APIs** 🔌: Understanding RESTful services and how to integrate them into applications.
 
 ## ⚡ Fun Fact
@@ -31,13 +45,25 @@
 </p>
 
 ## 💼 Projects
+
+ **YoucodeTest**
+- A project focused on testing and implementing various **back-end** solutions with **PHP**.
+  <br>
+  <a href="https://github.com/Keltoummalouki/Tests_Acceptation_Youcode">GitHub</a>
+
+ **Airbnb Clone**
+- A clone of **Airbnb** using **PHP**, **Tailwind CSS**, and **PostgreSQL** with **React.js** for the front-end.
+  <br>
+  <a href="https://github.com/Aboussebaba-Othman/Airbnb">GitHub</a>
+
+ **Youdemy**
+- An educational platform project built using **PHP**, **Laravel**, and **MySQL**.
+  <br>
+  <a href="https://github.com/Keltoummalouki/Youdemy">GitHub</a>
+
  **ShopZone** <br>
      - ShopZone est une plateforme e-commerce intuitive permettant aux utilisateurs de parcourir, filtrer et gérer facilement leurs produits favoris et leur panier d'achat. Elle vise à simplifier l'expérience d'achat en ligne grâce à une interface conviviale et efficace.<br>
      <a href="https://github.com/Keltoummalouki/ShopZone">GitHub</a>
-
-**JapArt** <br>
-    - JapArt est un site web artistique modernisé à l’aide de HTML et CSS, destiné à offrir une expérience utilisateur optimisée. Il comprend trois nouvelles pages : "About", "Gallery" et "Contact", intégrées selon les principes d’UI/UX design. Le site garantit une navigation fluide, une cohérence visuelle avec la charte graphique existante et des performances adaptées aux besoins des utilisateurs.<br>
-    <a href="https://github.com/Keltoummalouki/JapArt">GitHub</a>
     
 **Programme de gestion des reservations d'un dentaire** <br>
     - Programme de gestion des réservations d'un dentiste en langage C permet de créer, modifier, et annuler des rendez-vous, avec validation d'horaires et stockage structuré des données pour une gestion efficace du calendrier.<br>

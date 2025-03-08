@@ -46,19 +46,16 @@
 
 ## 💼 Projects
 
- **YoucodeTest**
-- A project focused on testing and implementing various **back-end** solutions with **PHP**.
-  <br>
+ **YoucodeTest**  <br>
+      - A project focused on testing and implementing various **back-end** solutions with **PHP**.  <br>
   <a href="https://github.com/Keltoummalouki/Tests_Acceptation_Youcode">GitHub</a>
 
- **Airbnb Clone**
-- A clone of **Airbnb** using **PHP**, **Tailwind CSS**, and **PostgreSQL** with **React.js** for the front-end.
-  <br>
+ **Airbnb Clone**  <br>
+      - A clone of **Airbnb** using **PHP**, **Tailwind CSS**, and **PostgreSQL** with **React.js** for the front-end.   <br>
   <a href="https://github.com/Aboussebaba-Othman/Airbnb">GitHub</a>
 
- **Youdemy**
-- An educational platform project built using **PHP**, **Laravel**, and **MySQL**.
-  <br>
+ **Youdemy**  <br>
+    - An educational platform project built using **PHP**, **Laravel**, and **MySQL**.  <br>
   <a href="https://github.com/Keltoummalouki/Youdemy">GitHub</a>
 
  **ShopZone** <br>

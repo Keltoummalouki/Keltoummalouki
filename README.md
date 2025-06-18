@@ -5,9 +5,10 @@
 - Passionate about **development** and creating **user-friendly applications** that solve real-world problems.
   
 ## 📫 How to Reach Me
+- 🌐 Portfolio : [keltoummalouki.com](https://portfolio-seven-orcin-36.vercel.app/)
 - 📧 Email: [keltoummalouki@gmail.com](mailto:keltoummalouki@gmail.com)
 - 🔗 LinkedIn: [Keltoum Malouki](https://www.linkedin.com/in/keltoum-malouki-79a28029a/)
-- 🐦 X: [keltoummalouki](https://twitter.com/keltoummalouki)
+- 🔗 X: [keltoummalouki](https://twitter.com/keltoummalouki)
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**:
@@ -30,8 +31,8 @@
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"> **Photoshop**
 
 ## 🌱 I’m currently learning
-- **PHP** ☕: Exploring advanced concepts and frameworks.
-- **APIs** 🔌: Understanding RESTful services and how to integrate them into applications.
+- **Frameworks** : Next.js
+- **Animations UI** : GSAP, Framer Motion
 
 ## ⚡ Fun Fact
 - I have a knack for blending creativity with technical skills!

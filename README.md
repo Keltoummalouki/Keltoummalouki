@@ -26,7 +26,7 @@
   <a href="https://twitter.com/keltoummalouki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://link-vers-ton-cv.pdf" target="_blank">
+  <a href="http://github.com/Keltoummalouki/Keltoummalouki/blob/main/Keltoum%20Malouki%20CV%20Version%20Fr.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
   </a>
 </p>

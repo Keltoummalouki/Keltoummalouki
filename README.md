@@ -1,73 +1,129 @@
-# Keltoum Malouki 👋
+<h1 align="center">👋 Keltoum Malouki</h1>
 
-## 👨‍💻 About Me
-- A **Développeur Web et Web Mobile** from **Morocco**.
-- Passionate about **development** and creating **user-friendly applications** that solve real-world problems.
-  
-## 📫 How to Reach Me
-- 🌐 Portfolio : [keltoummalouki.com](https://portfolio-seven-orcin-36.vercel.app/)
-- 📧 Email: [keltoummalouki@gmail.com](mailto:keltoummalouki@gmail.com)
-- 🔗 LinkedIn: [Keltoum Malouki](https://www.linkedin.com/in/keltoum-malouki-79a28029a/)
-- 🔗 X: [keltoummalouki](https://twitter.com/keltoummalouki)
+<p align="center">Développeuse Web & Mobile passionnée par la création d’interfaces modernes, fluides et utiles.</p>
 
-## 🛠️ Technologies & Tools
-- **Programming Languages**:
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"> **HTML5**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"> **CSS**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> **JavaScript**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"> **PHP**
-- **Frameworks**:
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30"> **Tailwind**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"> **React**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30"> **Laravel**
-- **Databases**:
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"> **MySQL**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"> **PostgreSQL**
-- **Tools**:
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> **Git**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="30" height="30"> **GitHub**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"> **Docker**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> **Figma**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"> **Photoshop**
+---
 
-## 🌱 I’m currently learning
-- **Frameworks** : Next.js
-- **Animations UI** : GSAP, Framer Motion
+## 🧑‍💻 À propos de moi
 
-## ⚡ Fun Fact
-- I have a knack for blending creativity with technical skills!
-## Connect with me:
+- 💡 Je conçois des expériences web **intuitives** et **accessibles**, avec un souci du **détail** et de l’**esthétique**.
+- 🌍 Basée au **Maroc**, je développe en **full stack** avec passion.
+
+---
+
+## 📫 Me contacter
+
 <p align="left">
-<a href="https://instagram.com/keltoummalouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keltoummalouki" height="30" width="40" /></a>
-<a href="https://dev.to/keltoummalouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="keltoummalouki" height="30" width="40" /></a>
-<a href="https://twitter.com/keltoummalouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keltoummalouki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23517421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23517421" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keltoummalouki91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keltoummalouki91" height="30" width="40" /></a>
+  <a href="https://portfolio-seven-orcin-36.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:keltoummalouki@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/keltoum-malouki-79a28029a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/keltoummalouki" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://link-vers-ton-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
+  </a>
 </p>
 
-## 💼 Projects
+---
 
- **YoucodeTest**  <br>
-      - A project focused on testing and implementing various **back-end** solutions with **PHP**.  <br>
-  <a href="https://github.com/Keltoummalouki/Tests_Acceptation_Youcode">GitHub</a>
+## 🛠️ Compétences techniques
 
- **Airbnb Clone**  <br>
-      - A clone of **Airbnb** using **PHP**, **Tailwind CSS**, and **PostgreSQL** with **React.js** for the front-end.   <br>
-  <a href="https://github.com/Aboussebaba-Othman/Airbnb">GitHub</a>
+### 🔤 Langages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP" />
+</p>
 
- **Youdemy**  <br>
-    - An educational platform project built using **PHP**, **Laravel**, and **MySQL**.  <br>
-  <a href="https://github.com/Keltoummalouki/Youdemy">GitHub</a>
+### 🧩 Frameworks & Librairies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="TailwindCSS" style="background-color:white; border-radius:6px; padding:2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" alt="Next.js" style="filter: invert(1);" />
+</p>
 
- **ShopZone** <br>
-     - ShopZone est une plateforme e-commerce intuitive permettant aux utilisateurs de parcourir, filtrer et gérer facilement leurs produits favoris et leur panier d'achat. Elle vise à simplifier l'expérience d'achat en ligne grâce à une interface conviviale et efficace.<br>
-     <a href="https://github.com/Keltoummalouki/ShopZone">GitHub</a>
-    
-**Programme de gestion des reservations d'un dentaire** <br>
-    - Programme de gestion des réservations d'un dentiste en langage C permet de créer, modifier, et annuler des rendez-vous, avec validation d'horaires et stockage structuré des données pour une gestion efficace du calendrier.<br>
-     <a href="https://github.com/Keltoummalouki/Projet-Fin-Sas-Youcode">GitHub</a>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keltoummalouki" alt="keltoummalouki" /></a> </p>
+### 🗄️ Bases de données
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/keltoummalouki" target="blank"><img src="https://img.shields.io/twitter/follow/keltoummalouki?logo=twitter&style=for-the-badge" alt="keltoummalouki" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keltoummalouki&label=Profile%20views&color=0e75b6&style=flat" alt="keltoummalouki" /> </p>
+### 🧰 Outils & Logiciels
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" alt="Photoshop" />
+</p>
+
+---
+
+## 🌱 En cours d’apprentissage
+
+- ⚛️ **Next.js**
+- 🎞️ **GSAP / Framer Motion**
+- 🧩 **TypeScript**
+
+---
+
+## ⚡ Fun Fact
+💡 Je combine **créativité visuelle** & **logique de développement** pour créer des expériences modernes et interactives.
+
+---
+
+## 🔗 Présence en ligne
+
+<p>
+  <a href="https://instagram.com/keltoummalouki"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://dev.to/keltoummalouki"><img src="https://img.shields.io/badge/Dev.to-000000?logo=dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/23517421"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/keltoummalouki91"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
+</p>
+
+---
+
+## 📁 Projets
+
+- 🔹 **[YoucodeTest](https://github.com/Keltoummalouki/Tests_Acceptation_Youcode)**  
+  Projet backend pour tester des solutions en **PHP**
+
+- 🔹 **[Airbnb Clone](https://github.com/Aboussebaba-Othman/Airbnb)**  
+  Clone d’Airbnb avec **React.js**, **Tailwind CSS**, **PHP**, et **PostgreSQL**
+
+- 🔹 **[Youdemy](https://github.com/Keltoummalouki/Youdemy)**  
+  Plateforme e-learning avec **Laravel** et **MySQL**
+
+- 🔹 **[ShopZone](https://github.com/Keltoummalouki/ShopZone)**  
+  Site e-commerce moderne avec interface utilisateur fluide
+
+- 🔹 **[Programme Dentiste](https://github.com/Keltoummalouki/Projet-Fin-Sas-Youcode)**  
+  Gestion de réservations avec validation horaire en **langage C**
+
+---
+
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keltoummalouki&theme=gruvbox&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keltoummalouki&label=Vues%20du%20profil&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/twitter/follow/keltoummalouki?style=social" />
+</p>

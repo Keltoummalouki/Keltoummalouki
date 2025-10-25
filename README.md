@@ -6,124 +6,147 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 💡 Je conçois des expériences web **intuitives** et **accessibles**, avec un souci du **détail** et de l’**esthétique**.
-- 🌍 Basée au **Maroc**, je développe en **full stack** avec passion.
+- 💡 Je conçois des expériences web **intuitives** et **accessibles**, avec un souci du **détail** et de l’**esthétique**.  
+- 🌍 Basée au **Maroc**, je développe en **full stack** avec passion.  
+- ⚙️ Spécialisée dans le **MERN Stack** et les **architectures modernes** (API REST, CI/CD, animations frontend).
 
 ---
 
 ## 📫 Me contacter
 
-<p align="left">
-  <a href="https://portfolio-seven-orcin-36.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:keltoummalouki@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/keltoum-malouki-79a28029a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/keltoummalouki" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="http://github.com/Keltoummalouki/Keltoummalouki/blob/main/Keltoum%20Malouki%20CV%20Version%20Fr.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Télécharger%20mon%20CV-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
-  </a>
+<p>
+  <a href="https://portfolio-seven-orcin-36.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" title="Portfolio" /></a>
+  <a href="mailto:keltoummalouki@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" title="Email" /></a>
+  <a href="https://www.linkedin.com/in/keltoum-malouki-79a28029a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://discord.com/users/1063428814673281047" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" title="Discord" /></a>
 </p>
 
 ---
 
 ## 🛠️ Compétences techniques
 
-### 🔤 Langages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP" />
-</p>
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
-### 🧩 Frameworks & Librairies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="TailwindCSS" style="background-color:white; border-radius:6px; padding:2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" alt="Next.js" style="filter: invert(1);" />
-</p>
+### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
-### 🗄️ Bases de données
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL" />
-</p>
+### Bases de données
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
-### 🧰 Outils & Logiciels
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" alt="Photoshop" />
-</p>
+### DevOps & Outils
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,azure,kubernetes,linux,vscode,postman,figma,ps,notion)](https://skillicons.dev)
 
 ---
 
 ## 🌱 En cours d’apprentissage
 
-- ⚛️ **Next.js**
-- 🎞️ **GSAP / Framer Motion**
-- 🧩 **TypeScript**
+- 🔐 **Microservices & Cloud AWS**
+- ⚛️ **Advanced Next.js / Server Components**
+- 🤖 **Automatisation & Tests (Mocha, Chai, Jest)**
 
 ---
 
 ## ⚡ Fun Fact
-💡 Je combine **créativité visuelle** & **logique de développement** pour créer des expériences modernes et interactives.
+
+💡 Je combine **créativité visuelle** & **logique de développement** pour créer des expériences modernes et interactives.  
+> “Le code, c’est mon art. Le bug, mon ennemi juré.” 🪄
 
 ---
 
 ## 🔗 Présence en ligne
 
-<p>
-  <a href="https://instagram.com/keltoummalouki"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://dev.to/keltoummalouki"><img src="https://img.shields.io/badge/Dev.to-000000?logo=dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/23517421"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/keltoummalouki91"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
+<p >
+  <a href="https://instagram.com/keltoummalouki" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" title="Instagram" /></a>
+  <a href="https://twitter.com/keltoummalouki" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" title="Twitter" /></a>
+  <a href="https://dev.to/keltoummalouki" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40" alt="Dev.to" title="Dev.to" /></a>
+  <a href="https://stackoverflow.com/users/23517421" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="StackOverflow" title="StackOverflow" /></a>
+  <a href="https://www.hackerrank.com/keltoummalouki91" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="40" alt="HackerRank" title="HackerRank" /></a>
 </p>
 
 ---
 
 ## 📁 Projets
 
-- 🔹 **[YoucodeTest](https://github.com/Keltoummalouki/Tests_Acceptation_Youcode)**  
-  Projet backend pour tester des solutions en **PHP**
+### ⚔️ Mes artefacts de code
 
-- 🔹 **[Airbnb Clone](https://github.com/Aboussebaba-Othman/Airbnb)**  
-  Clone d’Airbnb avec **React.js**, **Tailwind CSS**, **PHP**, et **PostgreSQL**
+- 🩺 **[Careflow](https://github.com/Keltoummalouki/careflow-ehr-backend/tree/main)**  
+  API REST pour la gestion des patients, rôles et rendez-vous médicaux.  
+  **Techs :** Node.js, Express.js, MongoDB, JWT, Redis
 
-- 🔹 **[Youdemy](https://github.com/Keltoummalouki/Youdemy)**  
-  Plateforme e-learning avec **Laravel** et **MySQL**
+- 🗓️ **[Réservez-Moi](https://github.com/Keltoummalouki/Reservez-Moi)**  
+  Plateforme de réservation multiservices avec gestion des disponibilités.  
+  **Techs :** Laravel, MySQL, TailwindCSS, JavaScript
 
-- 🔹 **[ShopZone](https://github.com/Keltoummalouki/ShopZone)**  
-  Site e-commerce moderne avec interface utilisateur fluide
+- 🧪 **[YoucodeTest](https://github.com/Keltoummalouki/Tests-Acceptation-Youcode)**  
+  Application backend pour la validation des tests YouCode.  
+  **Techs :** PHP, MySQL, UML
 
-- 🔹 **[Programme Dentiste](https://github.com/Keltoummalouki/Projet-Fin-Sas-Youcode)**  
-  Gestion de réservations avec validation horaire en **langage C**
+- 🏡 **[Airbnb Clone](https://github.com/Aboussebaba-Othman/Airbnb)**  
+  Clone d’Airbnb avec design moderne et logique serveur complète.  
+  **Techs :** React.js, TailwindCSS, PostgreSQL, PHP
+
+- 🛍️ **[ShopZone](https://github.com/Keltoummalouki/ShopZone)**  
+  E-commerce moderne avec gestion dynamique des produits et UI fluide.  
+  **Techs :** React.js, PHP, MySQL
 
 ---
 
 ## 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keltoummalouki&theme=gruvbox&no-frame=true&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="GitHub Trophies"
+      src="https://github-profile-trophy.vercel.app/?username=Keltoummalouki&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7&cache=1&_ts=2025-10-25-2" />
+  </a>
 </p>
+
+<!-- Astuce: si l’image n’apparaît pas, ouvrez directement le lien ci-dessus. 
+     Changez la valeur de _ts= pour forcer le rafraîchissement du cache GitHub. -->
 
 ---
 
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keltoummalouki&label=Vues%20du%20profil&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/twitter/follow/keltoummalouki?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Keltoummalouki&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
+  <img src="https://img.shields.io/twitter/follow/keltoummalouki?style=social" alt="Suivre @keltoummalouki sur X" />
 </p>
+
+<!-- Carte de résumé détaillé -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keltoummalouki&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keltoummalouki&theme=default" />
+    <img alt="Résumé de profil GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keltoummalouki" />
+  </picture>
+</p>
+
+<!-- Cartes principales -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Keltoummalouki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Keltoummalouki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
+    <img alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=Keltoummalouki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Keltoummalouki&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Keltoummalouki&theme=default&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Keltoummalouki&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Keltoummalouki&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Keltoummalouki&layout=compact&langs_count=8&hide_border=true&theme=default" />
+    <img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keltoummalouki&layout=compact&langs_count=8&hide_border=true" />
+  </picture>
+</p>
+
+
+---

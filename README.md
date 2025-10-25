@@ -29,21 +29,18 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=c,nodejs,express,nestjs,php,laravel)](https://skillicons.dev)
 
 ### Bases de données
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### DevOps & Outils
-[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,azure,kubernetes,linux,vscode,postman,figma,ps,notion)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,kubernetes,linux,vscode,postman,figma,ps,notion)](https://skillicons.dev)
 
 ---
 
 ## 🌱 En cours d’apprentissage
-
-- 🔐 **Microservices & Cloud AWS**
-- ⚛️ **Advanced Next.js / Server Components**
-- 🤖 **Automatisation & Tests (Mocha, Chai, Jest)**
+[![ En cours d’apprentissage](https://skillicons.dev/icons?i=express,mongodb,nestjs,aws,)](https://skillicons.dev)
 
 ---
 
@@ -135,4 +132,5 @@
 
 
 ---
+
 

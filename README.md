@@ -92,21 +92,6 @@
 
 ---
 
-## 🏆 Trophées GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img 
-      alt="GitHub Trophies"
-      src="https://github-profile-trophy.vercel.app/?username=Keltoummalouki&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7&cache=1&_ts=2025-10-25-2" />
-  </a>
-</p>
-
-<!-- Astuce: si l’image n’apparaît pas, ouvrez directement le lien ci-dessus. 
-     Changez la valeur de _ts= pour forcer le rafraîchissement du cache GitHub. -->
-
----
-
 ## 📈 Stats
 
 <p align="center">
@@ -150,3 +135,4 @@
 
 
 ---
+

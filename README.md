@@ -89,12 +89,26 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests successfully">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Earned project stars">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed directly to main branch">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire - Collaborated with other developers">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed PRs quickly">
+  <br>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Gave helpful answers in discussions">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" title="Public Sponsor">
+
+</div>
+
 ## 📈 Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keltoummalouki&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
-  <img src="https://img.shields.io/twitter/follow/keltoummalouki?style=social" alt="Suivre @keltoummalouki sur X" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=labitayoub&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="trophies"/>
 
 <!-- Carte de résumé détaillé -->
 <p align="center">
@@ -134,3 +148,7 @@
 ---
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keltoummalouki&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
+  <img src="https://img.shields.io/twitter/follow/keltoummalouki?style=social" alt="Suivre @keltoummalouki sur X" />
+</p>

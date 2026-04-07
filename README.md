@@ -26,21 +26,21 @@
 ## 🛠️ Compétences techniques
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,redux,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,angular,nextjs,redux,tailwind,bootstrap,sass)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=c,nodejs,express,nestjs,php,laravel)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=c,nodejs,express,nestjs,php,laravel,ruby,rails)](https://skillicons.dev)
 
 ### Bases de données
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql,prisma)](https://skillicons.dev)
 
 ### DevOps & Outils
-[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,kubernetes,linux,vscode,postman,figma,ps,notion)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,kubernetes,linux,vscode,postman,npm,pnpm,yarn,powershell,rabbitmq,figma,ps,notion)](https://skillicons.dev)
 
 ---
 
 ## 🌱 En cours d’apprentissage
-[![ En cours d’apprentissage](https://skillicons.dev/icons?i=express,mongodb,nestjs,aws,)](https://skillicons.dev)
+[![ En cours d’apprentissage](https://skillicons.dev/icons?i=ruby,rails,angular,aws)](https://skillicons.dev)
 
 ---
 

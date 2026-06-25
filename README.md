@@ -9,9 +9,9 @@
 ## About
 
 - 🌍 Based in Casablanca, Morocco.
-- Full Stack Developer at DabaDoc.
-- Focused on React, Next.js, Angular, Ruby on Rails, Node.js, and clean user experiences.
-- Trained in full stack development at YouCode - UM6P.
+- 💻 Full Stack Developer at DabaDoc.
+- 🎯 Focused on React, Next.js, Angular, Ruby on Rails, Node.js, and clean user experiences.
+- 📚 Trained in full stack development at YouCode - UM6P.
 
 ---
 
